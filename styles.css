@@ -8,7 +8,7 @@
 
 body {
     align-items: center;
-    background: hsl(36, 30%, 90%);
+    background: hsl(36, 50%, 80%);
     color: hsl(240, 80%, 10%);
     display: flex;
     flex-direction: column;
